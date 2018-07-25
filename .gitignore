@@ -60,3 +60,10 @@ Thumbs.db
 out/
 catalina.base_IS_UNDEFINED/
 
+copyright/
+.name
+compiler.xml
+encodings.xml
+misc.xml
+modules.xml
+workspace.xml
