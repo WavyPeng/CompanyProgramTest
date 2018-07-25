@@ -10,5 +10,5 @@ Java
 
 | 公司 | 题目 | 题解 | 
 | - | - | -: | 
-| 腾讯 | 游戏任务标记 | [Java]() |
+| 腾讯 | 游戏任务标记 | [Java](https://github.com/WavyPeng/CompanyProgramTest/blob/master/src/tencent/y2017/GameTaskMark.java) |
 
