@@ -20,4 +20,4 @@
 >这道题的思路还是蛮简单的，就是计算每个陷阱坐标到(1,1)的距离，找到最小的那个距离即可。
 
 #### 题解
-[GameTaskMark](https://github.com/WavyPeng/CompanyProgramTest/edit/master/src/netease/y2017/SaveXiaoYi.java)
+[SaveXiaoYi](https://github.com/WavyPeng/CompanyProgramTest/edit/master/src/netease/y2017/SaveXiaoYi.java)
