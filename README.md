@@ -11,5 +11,5 @@ Java
 | 公司 | 题目 | 题解 | 
 | - | - | -: | 
 | 腾讯 | [游戏任务标记](https://github.com/WavyPeng/CompanyProgramTest/blob/master/src/tencent/y2017/README.md) | [Java](https://github.com/WavyPeng/CompanyProgramTest/blob/master/src/tencent/y2017/GameTaskMark.java) |
-| 网易 | [解救小易] | [Java](https://github.com/WavyPeng/CompanyProgramTest/blob/master/src/netease/y2017/SaveXiaoYi.java) |
+| 网易 | [解救小易](https://github.com/WavyPeng/CompanyProgramTest/blob/master/src/netease/y2017/README.md) | [Java](https://github.com/WavyPeng/CompanyProgramTest/blob/master/src/netease/y2017/SaveXiaoYi.java) |
 
